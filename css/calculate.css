@@ -1,0 +1,30 @@
+ h1 {
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .title {
+        text-align: center;
+    }
+    
+    h5 {
+        text-align: center;
+        color: #9B9AA3
+    }
+    
+    .calculate {
+        width: 100%;
+        min-width: 800px;
+        height: 1000px;
+        margin: 0 auto;
+        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFD7E2), to(#FFA31F));
+        background: -moz-gradient(linear, 0% 0%, 0% 100%, from(#FFD7E2), to(#FFA31F));
+        background: gradient(linear, 0% 0%, 0% 100%, from(#FFD7E2), to(#FFA31F));
+        position: relative;
+    }
+    
+    .calcul {
+        position: absolute;
+        left: 50%;
+        margin-left: -200px;
+    }
